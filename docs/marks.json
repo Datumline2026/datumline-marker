@@ -1,6 +1,6 @@
 {
   "schema": "datumline.marks/v0.3-rc",
-  "generated_at": "2026-11-26T17:02:55.435160+00:00",
+  "generated_at": "2026-11-27T16:48:00.646608+00:00",
   "methodology": "v0.3-rc PROVISIONAL - layer derivation not locked",
   "cohort_size": 12,
   "rated": 11,
@@ -42,23 +42,23 @@
       "evidence": [
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server-filesystem",
-          "artifact_hash": "f88cf0e629d6c5a2ed859df12b9b007903b4d70021b04ab0937b6628447d35ef",
-          "retrieved_at": "2026-11-26T17:02:55.522128+00:00"
+          "artifact_hash": "0fdb9c62291af91f08d527cc35caeaf890f9b085a9644df13f473280a51f468e",
+          "retrieved_at": "2026-11-27T16:48:00.731538+00:00"
         }
       ],
       "observations": {
-        "age_days": 734,
-        "idle_days": 8,
-        "releases": 26,
+        "age_days": 735,
+        "idle_days": 0,
+        "releases": 27,
         "maintainers": 6,
         "dependencies": 5,
         "has_repository": true,
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 12.93
+        "releases_per_year": 13.41
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@modelcontextprotocol/server-memory",
@@ -96,23 +96,23 @@
       "evidence": [
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server-memory",
-          "artifact_hash": "8d971338a51ef59dddbcb96899f01cf435ebb9e02645f0c4a4b99cc1d99ad277",
-          "retrieved_at": "2026-11-26T17:02:55.585501+00:00"
+          "artifact_hash": "334275e318ea5e466bf4053eefa4b66577cacc03ea44798b1aeb65511d8cb6fd",
+          "retrieved_at": "2026-11-27T16:48:00.885357+00:00"
         }
       ],
       "observations": {
-        "age_days": 734,
-        "idle_days": 8,
-        "releases": 20,
+        "age_days": 735,
+        "idle_days": 0,
+        "releases": 21,
         "maintainers": 6,
         "dependencies": 3,
         "has_repository": true,
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 9.95
+        "releases_per_year": 10.43
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@modelcontextprotocol/server-sequential-thinking",
@@ -151,12 +151,12 @@
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server-sequential-thinking",
           "artifact_hash": "3d228d22172c34479baf3268dc74c22a5fdf615ce6948800721ecd805ee878c3",
-          "retrieved_at": "2026-11-26T17:02:55.747889+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.075996+00:00"
         }
       ],
       "observations": {
-        "age_days": 723,
-        "idle_days": 8,
+        "age_days": 724,
+        "idle_days": 9,
         "releases": 13,
         "maintainers": 6,
         "dependencies": 4,
@@ -164,9 +164,9 @@
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 6.56
+        "releases_per_year": 6.55
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@modelcontextprotocol/server-pdf",
@@ -176,27 +176,27 @@
         "mutation": 4.0,
         "conduct": 2.0,
         "implementation": 3.0,
-        "stewardship": 1.5
+        "stewardship": 2.0
       },
       "vectors": {
         "W-A": {
           "label": "x402-inherited control",
-          "raw_score": 2.35,
-          "capped_score": 2.35,
+          "raw_score": 2.45,
+          "capped_score": 2.45,
           "grade": "DL-2",
           "applied_caps": []
         },
         "W-B": {
           "label": "incident-informed",
-          "raw_score": 2.125,
-          "capped_score": 2.125,
+          "raw_score": 2.25,
+          "capped_score": 2.25,
           "grade": "DL-2",
           "applied_caps": []
         },
         "W-C": {
           "label": "clean-sheet locked v0.3",
-          "raw_score": 2.45,
-          "capped_score": 2.45,
+          "raw_score": 2.5,
+          "capped_score": 2.5,
           "grade": "DL-2",
           "applied_caps": []
         }
@@ -205,12 +205,12 @@
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server-pdf",
           "artifact_hash": "39408226b0b69c746e2e4f41e7a62ff4dbba76aa4ebe93ae465d6d0afb3493af",
-          "retrieved_at": "2026-11-26T17:02:55.879729+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.302178+00:00"
         }
       ],
       "observations": {
-        "age_days": 314,
-        "idle_days": 30,
+        "age_days": 315,
+        "idle_days": 31,
         "releases": 28,
         "maintainers": 6,
         "dependencies": 10,
@@ -218,9 +218,9 @@
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 32.55
+        "releases_per_year": 32.44
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@hisma/server-puppeteer",
@@ -259,12 +259,12 @@
         {
           "source_url": "https://registry.npmjs.org/@hisma/server-puppeteer",
           "artifact_hash": "554e4784b0d3e87114a36ca3a6bbb3fec099d8c983767f9e125084eb62af3da9",
-          "retrieved_at": "2026-11-26T17:02:56.416858+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.401019+00:00"
         }
       ],
       "observations": {
-        "age_days": 516,
-        "idle_days": 516,
+        "age_days": 517,
+        "idle_days": 517,
         "releases": 3,
         "maintainers": 1,
         "dependencies": 2,
@@ -274,7 +274,7 @@
         "deprecated": false,
         "releases_per_year": 2.12
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "puppeteer-mcp-server",
@@ -313,12 +313,12 @@
         {
           "source_url": "https://registry.npmjs.org/puppeteer-mcp-server",
           "artifact_hash": "b6510a5b52a2cbf718e00f1836b5e9a0d810ab440b49f045e09da51db52a0e5b",
-          "retrieved_at": "2026-11-26T17:02:56.584617+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.505260+00:00"
         }
       ],
       "observations": {
-        "age_days": 634,
-        "idle_days": 622,
+        "age_days": 635,
+        "idle_days": 623,
         "releases": 3,
         "maintainers": 1,
         "dependencies": 4,
@@ -326,9 +326,9 @@
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 1.73
+        "releases_per_year": 1.72
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@modelcontextprotocol/server",
@@ -367,12 +367,12 @@
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server",
           "artifact_hash": "9a5f73cd89d717b6f402d80b556a3deefcb18ca8b23121d702072b0131b85d42",
-          "retrieved_at": "2026-11-26T17:02:56.655782+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.561465+00:00"
         }
       ],
       "observations": {
-        "age_days": 239,
-        "idle_days": 33,
+        "age_days": 240,
+        "idle_days": 34,
         "releases": 15,
         "maintainers": 6,
         "dependencies": 2,
@@ -380,9 +380,9 @@
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 22.91
+        "releases_per_year": 22.81
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@modelcontextprotocol/server-everything",
@@ -420,23 +420,23 @@
       "evidence": [
         {
           "source_url": "https://registry.npmjs.org/@modelcontextprotocol/server-everything",
-          "artifact_hash": "b3f3c3f495002ed62c92bc047ddcbb28cba8e02fab7f99a8570813dffdf8a73b",
-          "retrieved_at": "2026-11-26T17:02:56.877369+00:00"
+          "artifact_hash": "7ac21a488b07921376288e34ece56dbbd46b448b8e62be8f7d34756967c8ac25",
+          "retrieved_at": "2026-11-27T16:48:01.794992+00:00"
         }
       ],
       "observations": {
-        "age_days": 737,
-        "idle_days": 8,
-        "releases": 35,
+        "age_days": 738,
+        "idle_days": 0,
+        "releases": 36,
         "maintainers": 6,
         "dependencies": 6,
         "has_repository": true,
         "has_license": true,
         "has_bugs_url": true,
         "deprecated": false,
-        "releases_per_year": 17.33
+        "releases_per_year": 17.8
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "enhanced-postgres-mcp-server",
@@ -446,12 +446,12 @@
         {
           "source_url": "https://registry.npmjs.org/enhanced-postgres-mcp-server",
           "artifact_hash": "19311970198f3af53f65790ec87d0f4f590f5f02ca5bd4c8b0eebe6a53fd6369",
-          "retrieved_at": "2026-11-26T17:02:57.038533+00:00"
+          "retrieved_at": "2026-11-27T16:48:01.951148+00:00"
         }
       ],
       "observations": {
-        "age_days": 495,
-        "idle_days": 495,
+        "age_days": 496,
+        "idle_days": 496,
         "releases": 2,
         "maintainers": 1,
         "dependencies": 2,
@@ -461,7 +461,7 @@
         "deprecated": false,
         "releases_per_year": 1.47
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "figma-mcp",
@@ -500,12 +500,12 @@
         {
           "source_url": "https://registry.npmjs.org/figma-mcp",
           "artifact_hash": "7fdc73a0d53b2340349c37318ac2bfdb9a09f51d99e5fb5e85571823e61dff71",
-          "retrieved_at": "2026-11-26T17:02:57.169975+00:00"
+          "retrieved_at": "2026-11-27T16:48:02.064968+00:00"
         }
       ],
       "observations": {
-        "age_days": 720,
-        "idle_days": 570,
+        "age_days": 721,
+        "idle_days": 571,
         "releases": 5,
         "maintainers": 1,
         "dependencies": 2,
@@ -515,7 +515,7 @@
         "deprecated": false,
         "releases_per_year": 2.53
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "ref-tools-mcp",
@@ -554,12 +554,12 @@
         {
           "source_url": "https://registry.npmjs.org/ref-tools-mcp",
           "artifact_hash": "7bf6a34231cdac798097ff931b81069976d4c44dfa3c2e429140b9059d757bc1",
-          "retrieved_at": "2026-11-26T17:02:57.407306+00:00"
+          "retrieved_at": "2026-11-27T16:48:02.175974+00:00"
         }
       ],
       "observations": {
-        "age_days": 633,
-        "idle_days": 387,
+        "age_days": 634,
+        "idle_days": 388,
         "releases": 20,
         "maintainers": 1,
         "dependencies": 3,
@@ -567,9 +567,9 @@
         "has_license": false,
         "has_bugs_url": false,
         "deprecated": false,
-        "releases_per_year": 11.53
+        "releases_per_year": 11.51
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     },
     {
       "entity_id": "@jsonresume/mcp",
@@ -608,12 +608,12 @@
         {
           "source_url": "https://registry.npmjs.org/@jsonresume/mcp",
           "artifact_hash": "1313bf6b8aaf985ff0f43526b864879e5aa01509f3ab9e99146245a3fb682749",
-          "retrieved_at": "2026-11-26T17:02:57.758091+00:00"
+          "retrieved_at": "2026-11-27T16:48:02.555573+00:00"
         }
       ],
       "observations": {
-        "age_days": 632,
-        "idle_days": 603,
+        "age_days": 633,
+        "idle_days": 604,
         "releases": 8,
         "maintainers": 3,
         "dependencies": 5,
@@ -621,9 +621,9 @@
         "has_license": false,
         "has_bugs_url": false,
         "deprecated": false,
-        "releases_per_year": 4.62
+        "releases_per_year": 4.61
       },
-      "as_of": "2026-11-26T17:02:55.435160+00:00"
+      "as_of": "2026-11-27T16:48:00.646608+00:00"
     }
   ]
 }
